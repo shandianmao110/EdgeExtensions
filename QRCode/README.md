@@ -57,7 +57,7 @@ browser.tabs.query({ active: true, currentWindow: true }, function (tabs) {
 - 安装自己开发的插件需要先更改下开发者设计。
 - 浏览器输入 `about:config`，勾选启用开发者拓展功能，重启浏览器。
 
-![修改开发者设置]](https://images2018.cnblogs.com/blog/886374/201808/886374-20180828163801824-1222251052.png)
+![修改开发者设置](https://images2018.cnblogs.com/blog/886374/201808/886374-20180828163801824-1222251052.png)
 
 - 点击右上角三个点，点击“拓展”，拉到最下面点击“加载拓展”，选择文件夹。
 - 现在拓展就加载到我们的浏览器上了。
