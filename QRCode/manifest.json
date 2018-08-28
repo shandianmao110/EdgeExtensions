@@ -1,0 +1,21 @@
+{
+  "name": "Create Qrcode",
+  "author": "shandianmao110",
+  "version": "1.0",
+  "description": "Create a Qr code for websites",
+  "permissions": [
+    "tabs"
+  ],
+  "browser_action": {
+    "default_icon": {
+      "20": "images/create-Qrcode20.png",
+      "40": "images/create-Qrcode40.png"
+    },
+    "default_title": "Create Qrcode",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "25": "images/create-Qrcode25.png",
+    "48": "images/create-Qrcode48.png"
+  }
+}
